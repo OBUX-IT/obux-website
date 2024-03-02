@@ -24,11 +24,11 @@ page_sections:
     slug: features
     headline: OBUX
     content:
-      Embark on a journey with us as we redefine the landscape of user experience.
+      Embark on a journey with us as we redefine the landscape of user experience, as an open-source community-driven platform.
     cta:
-      enabled: false
-      url: https://github.com/forestryio/ubuild-jekyll
-      button_text: "See on GitHub "
+      enabled: true
+      url: https://github.com/obux-it
+      button_text: "See on GitHub"
     # image:
     #   image: "/assets/images/header-main.jpg"
     #   alt_text: Product Shot
