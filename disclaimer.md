@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Disclaimer
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
   - template: navigation-header-w-button
@@ -63,14 +63,18 @@ page_sections:
   #     image: "/uploads/2018/06/21/edit.gif"
   #     alt_text: Customize Blocks
 
-  # - template: 1-column-text
-  #   block: one-column-1
-  #   slug: responsive
-  #   headline: 16 Fully Responsive Design Blocks
-  #   content: |
-  #     The Design Blocks can be used without Forestry but to harness the power
-  #     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-  #     create new sites and make them fully customizable.
+  - template: 1-column-text
+    block: one-column-1
+    slug: responsive
+    headline: Contact details
+    content: |
+      Stichting OBUX </br>
+      Buitenom 251 </br>
+      2711KB Zoetermeer </br>
+      The Netherlands </br>
+      CoC: 93134533 </br>
+      Email: info [at] obux.it
+
   # - template: full-width-media-element
   #   block: media-1
   #   image: "/uploads/2018/06/21/theme.png"
@@ -80,7 +84,5 @@ page_sections:
 
   - template: simple-footer
     block: footer-1
-    content: |
-      OBUX &copy; </br>
-      <a href="/disclaimer">disclaimer</a>
+    content: OBUX &copy;
 ---
